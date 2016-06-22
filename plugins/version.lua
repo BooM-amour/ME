@@ -5,9 +5,9 @@ function run(msg, matches)
 end 
 return {
   patterns = {
-    "^#version$",
-    "^#bot$",
-    "^#selfbot$"
+    "^version$",
+    "^bot$",
+    "^selfbot$"
   },
   run = run
 }
