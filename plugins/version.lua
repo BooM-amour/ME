@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-    return "👾v↘️IR↙️us👾™\n @vIRus_TM \n 📵+989017040813\n 🆔 @MR_VvIRusS"
+    return "👾v↘️IR↙️us👾™\nTM \n +989375048571\n@My_parun_deadRusS"
 end 
 return {
   patterns = {
